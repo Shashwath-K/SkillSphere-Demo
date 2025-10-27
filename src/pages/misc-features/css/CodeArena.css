@@ -1,0 +1,58 @@
+/* CodeArena.css */
+.code-arena-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.editor-container {
+  margin-bottom: 20px;
+}
+
+.monaco-editor-container {
+  width: 100%;
+  max-width: 800px;
+  margin-bottom: 20px;
+}
+
+.run-button-container {
+  margin-bottom: 20px;
+}
+
+.run-button-container button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+}
+
+.run-button-container button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.output-container {
+  margin-top: 20px;
+  width: 100%;
+  max-width: 800px;
+}
+
+.output-window {
+  background-color: #222;
+  color: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  min-height: 100px;
+  font-family: 'Courier New', monospace;
+  font-size: 1rem;
+  white-space: pre-wrap;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
