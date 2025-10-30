@@ -29,7 +29,7 @@ We are committed to fostering a positive, inclusive, and professional environmen
 1.  **Fork the Repository:** Click the "Fork" button at the top right of the [SkillSphere repository](https://github.com/Shashwath-K/SkillSphere-CAT) page.
 2.  **Clone Your Fork:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/skillsphere-cat.git](https://github.com/YOUR_USERNAME/skillsphere-cat.git)
+    git clone "https://github.com/Shashwath-K/SkillSphere-CAT"
     cd skillsphere-cat
     ```
 3.  **Install Dependencies:**
