@@ -68,4 +68,4 @@ _A Web-Based Assessment & Learning Platform_
 
 ## Live Preview & Demo
 
-[DEMO](https://skillsphere-cat-demo.vercel.app/)
+[Vercel Preview](https://skillsphere-cat-demo.vercel.app/)
